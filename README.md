@@ -27,16 +27,11 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Behnoud&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
 
-
-
-
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=behnoud" alt="behnoud" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/behnoudt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="behnoudt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/behnoudtaheri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="behnoudtaheri" height="30" width="40" /></a>
 <a href="https://instagram.com/behnoudt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="behnoudt" height="30" width="40" /></a>
 </p>
 
