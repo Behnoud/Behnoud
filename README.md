@@ -1,6 +1,4 @@
-### It is under construction 
 <h1 align="center">Hi👋🏼, I'm Behnoud</h1>
-
 
 - 🔭 I’m currently working on MMRPG game called Treeverse   
  
