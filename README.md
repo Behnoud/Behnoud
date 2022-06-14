@@ -11,6 +11,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Behnoud&layout=compact&theme=vision-friendly-dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/Behnoud)
 
 
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
 
 
 <!--
