@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on MMRPG game called Treeverse   
  
-- 🌱 I’m currently working with ECS & DOTS in Unity  
+- 👨🏻‍💻 I’m currently working with ECS & DOTS in Unity  
 
 ![Behnoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Behnoud&count_private=true&show_icons=true&theme=dracula)]
 
