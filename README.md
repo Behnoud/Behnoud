@@ -45,7 +45,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Behnoud&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=behnoud" alt="behnoud" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=behnoud&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
