@@ -27,11 +27,6 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Behnoud&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Behnoud&layout=compact&hide_border=true" />
-
-
-
 <!--
 **Behnoud/Behnoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
