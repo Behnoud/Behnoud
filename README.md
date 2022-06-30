@@ -38,13 +38,14 @@
 
 <!-- [![](https://visitcount.itsvg.in/api?id=Behnoud&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
-
+<!--
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=behnoud&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Behnoud&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=behnoud&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
