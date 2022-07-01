@@ -1,4 +1,3 @@
-<h1 align="center">Hi👋🏼, I'm Behnoud</h1>
 - 👨🏻‍💻 I’m currently working on MMRPG game called Treeverse, working with ECS & DOTS in Unity, Exploring UnrealEngine
 
 # 💻 Tech Stack
