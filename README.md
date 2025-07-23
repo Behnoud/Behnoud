@@ -47,3 +47,17 @@ Welcome to my GitHub! I'm a passionate leader with expertise spanning C++, C#, S
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Behnoud&theme=vue-dark&hide_border=true" alt="Behnoud's GitHub Streak" />
 </p>
+
+
+---
+
+## 🤝 Let’s Collaborate
+
+Open to collaborations, contract work, or co-development on:
+- 🕹️ Innovative game mechanics
+- 🧠 Educational or blockchain-based games
+- ☁️ Backend infrastructure and DevOps setup
+- 🚀 Scaling indie game studios
+
+💬 Drop a message, connect on LinkedIn, or star a repo if you like what I’m building.
+
