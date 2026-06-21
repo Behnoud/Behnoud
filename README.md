@@ -50,6 +50,7 @@ Mentoring engineers and artists, improving workflows, and keeping the team movin
 
 ---
 ⚙️ Technology Ecosystem
+
 🎮 Game Development
 <p>
 <img src="https://skillicons.dev/icons?i=unity,unreal" />
