@@ -17,7 +17,7 @@
 
 ## 🧭 Who I Am
 
-I’m a **Technical Director, Game Studio Owner, and Studio Director** focused on building games from prototype to production.
+I’m a **Technical Director, Game Studio Owner, and Studio Director** focused on building games, apps & services from prototype to production.
 
 I work across **game architecture, rendering, tooling, pipelines, team leadership, and studio strategy** — the fun middle ground where code, art, production, and business all collide. Professionally. Mostly.
 
@@ -49,29 +49,6 @@ Mentoring engineers and artists, improving workflows, and keeping the team movin
 </table>
 
 ---
-⚙️ Technology Ecosystem
-
-🎮 Game Development
-<p>
-<img src="https://skillicons.dev/icons?i=unity,unreal" />
-</p>
-💻 Programming
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,cs,python,swift" />
-</p>
-🌐 Backend & Web
-<p>
-<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,nextjs,postgres,redis" />
-</p>
-☁️ DevOps & Infrastructure
-<p>
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,azure,cloudflare,githubactions" />
-</p>
-🛠️ Software & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=rider,visualstudio,vscode,git,github,figma,ps" />
-</p>
-
 
 ## 🧪 Studio Identity
 
