@@ -1,7 +1,9 @@
 # 🎮 Behnoud Taheri
 **Technical Director • Game Studio Owner • Studio Director**
 
-[![typograssy](https://typograssy.deno.dev/api?text=TWINSLEGACY&l0=232323&l1=ff9300&l2=ff9300&l3=ff9300&l4=ff9300&bg=000000&frame=ffffff))](https://github.com/kawarimidoll/typograssy)
+[![typograssy](https://typograssy.deno.dev/api?text=TWINSLEGACY&l0=232323&l1=ff9300&l2=ff9300&l3=ff9300&l4=ff9300&bg=000000&frame=ffffff)](https://github.com/kawarimidoll/typograssy)
+[![typograssy](https://typograssy.deno.dev/api?text=TWINZILLA&l0=232323&l1=ff9300&l2=ff9300&l3=ff9300&l4=ff9300&bg=000000&frame=ffffff)](https://github.com/kawarimidoll/typograssy)
+[![typograssy](https://typograssy.deno.dev/api?text=TWINFORGE&l0=232323&l1=ff9300&l2=ff9300&l3=ff9300&l4=ff9300&bg=000000&frame=ffffff)](https://github.com/kawarimidoll/typograssy)
 
 Welcome to my GitHub! I'm a passionate leader with expertise spanning C++, C#, Swift, Python, Unity, Unreal Engine, and modern DevOps. I build immersive gaming experiences, mentor dev teams, and steer studio-wide strategy.
 
