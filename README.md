@@ -3,7 +3,7 @@
 # 🎮 Behnoud Taheri  
 ### Technical Director • Game Studio Owner • Studio Director
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=FF9300&center=true&vCenter=true&width=900&lines=Building+games/apps/services%2C+teams%2C+pipelines+and+chaos.;Unity+%E2%80%A2+Unreal+%E2%80%A2+C%23+%E2%80%A2+C%2B%2B+%E2%80%A2+Python+%E2%80%A2+DevOps;Studio+thinking.+Technical+execution.+No+fluff." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=FF9300&center=true&vCenter=true&width=900&lines=Building+games+apps+services%2C+teams%2C+pipelines+and+chaos.;Unity+%E2%80%A2+Unreal+%E2%80%A2+C%23+%E2%80%A2+C%2B%2B+%E2%80%A2+Python+%E2%80%A2+DevOps;Studio+thinking.+Technical+execution.+No+fluff." />
 
 <br/>
 
@@ -108,6 +108,7 @@ Mentoring engineers and artists, improving workflows, and keeping the team movin
 
 ```txt
 > Building better games.
+> Building better sofwares.
 > Building better teams.
 > Building better pipelines.
 > Fighting technical debt before it grows teeth.
